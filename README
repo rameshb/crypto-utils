@@ -1,1 +1,11 @@
-This file was created by IntelliJ IDEA 11.1.4 for binding GitHub repository
+Crypto-Utils
+
+This project provides a small utility library to perform encryption, decryption and hashing.
+
+Following operations are supported:
+  # Key Generation for AES
+  # Key pair generation for RSA, DSA
+  # AES Encryption/Decryption
+  # Hmac generation with SHA variants
+  # RSA Encryption/Decryption
+  # Hashing using MD5, SHA etc.,
